@@ -1,1 +1,1 @@
-# flipflop-intepreter
+# flipflop-interpreter
